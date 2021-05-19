@@ -1,2 +1,2 @@
 # RPi-Info-script
- Server info in Telegram
+Script for Telegram allerts (bash)
